@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Bolumler/Menu.unity
+    guid: 4a82d3002a3316d449591e68165065f6
+  - enabled: 1
+    path: Assets/Bolumler/Level1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Bolumler/Level2.unity
+    guid: 9e7b0f91f03653d458b1ac5d65c6b4d0
+  - enabled: 1
+    path: Assets/Bolumler/Level3.unity
+    guid: afd25d434e1fc3e4fba192e939c57234
+  - enabled: 1
+    path: Assets/Bolumler/Level4.unity
+    guid: fb222bef570fdcc4ab477d8a5d1d4ac7
+  m_configObjects: {}
